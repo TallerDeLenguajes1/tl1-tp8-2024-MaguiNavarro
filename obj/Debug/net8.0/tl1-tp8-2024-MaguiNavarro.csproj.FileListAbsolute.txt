@@ -1,0 +1,14 @@
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\bin\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.exe
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\bin\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.deps.json
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\bin\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.runtimeconfig.json
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\bin\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.dll
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\bin\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.pdb
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.AssemblyInfoInputs.cache
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.AssemblyInfo.cs
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.csproj.CoreCompileInputs.cache
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.dll
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\refint\tl1-tp8-2024-MaguiNavarro.dll
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.pdb
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\tl1-tp8-2024-MaguiNavarro.genruntimeconfig.cache
+c:\Users\Magui Navarro\Desktop\Facultad\Taller-1\Tp8\tl1-tp8-2024-MaguiNavarro\obj\Debug\net8.0\ref\tl1-tp8-2024-MaguiNavarro.dll
